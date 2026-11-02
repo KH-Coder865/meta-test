@@ -55,7 +55,7 @@ If you want to ask about, access or request deletion of information submitted th
 ## 9. Contact
 
 **Project:** Meta Leads PoC Demo  
-**Contact email:** REPLACE_WITH_YOUR_EMAIL_ADDRESS
+**Contact email:** kaushikharsha2020@gmail.com
 
 ---
 
